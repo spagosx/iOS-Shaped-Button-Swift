@@ -3,7 +3,7 @@ iOS-Shaped-Button-Swift
 
 UIButton subclass which will intercept and fire actions only when the user taps on a portion of the button that has an alpha. 
 
-In the following screen there are 3 UIButtons that are "overlapping", normally (as views are always rects) the biggest or the frontmost button would "steal" all the touches from the other buttons. Using SOXShapedTapButton class the user touch will be intercepted only in the "circular" area of the clocks.
+In the following screen there are 3 UIButtons that are "overlapping". Normally (as views are always rects) the biggest or the frontmost button would "steal" all the touches from the other buttons. Using SOXShapedTapButton class the user touch will be intercepted only in the "circular" area of the clocks.
 
 ![alt tag](https://github.com/spagosx/iOS-Shaped-Button-Swift/blob/master/screen1.png)
 
