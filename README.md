@@ -42,3 +42,4 @@ The approach I've chosen is identical to the one used in <a href="https://github
        }
     }
 
+This helped in <a href="http://stackoverflow.com/questions/27923232/how-to-know-that-if-the-only-visible-area-of-a-png-is-touched-in-xcode-swift-o/27923457#27923457">this</a> Stack question.
